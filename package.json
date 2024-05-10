@@ -1,0 +1,12 @@
+{
+  "name": "snarkjs-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "snarkjs": "0.7.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
